@@ -39,7 +39,6 @@ apis:
   - name: Open Government, Taiwan
     description: "Taiwan Government Open Data"
     humanURL: https://data.gov.tw/
-    baseURL: https://data.gov.tw/
     tags:
       - Government
     properties:
